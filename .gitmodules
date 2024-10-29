@@ -1,0 +1,3 @@
+[submodule "fullstack-traba-copy-cat"]
+	path = fullstack-traba-copy-cat
+	url = https://github.com/rasha-hantash/fullstack-traba-copy-cat.git
