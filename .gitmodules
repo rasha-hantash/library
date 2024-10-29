@@ -1,3 +1,9 @@
 [submodule "fullstack-traba-copy-cat"]
 	path = fullstack-traba-copy-cat
 	url = https://github.com/rasha-hantash/fullstack-traba-copy-cat.git
+[submodule "golang"]
+	path = golang
+	url = https://github.com/rasha-hantash/golang.git
+[submodule "payments-and-ledgering"]
+	path = payments-and-ledgering
+	url = https://github.com/rasha-hantash/payments.git
